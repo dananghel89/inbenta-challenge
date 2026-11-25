@@ -1,0 +1,8 @@
+{
+	"require": {
+		"php": ">=7.0",
+		"vlucas/phpdotenv": "4.1.0",
+		"noahbuscher/macaw": "dev-master",
+		"guzzlehttp/guzzle": "6.5.2"
+	}
+}
